@@ -1,1 +1,15 @@
-{}
+{
+    "first_project": {
+        "gh_author": "pravinm199",
+        "gh_repo_path": "mm-ads",
+        "project_name": "first_project",
+        "version": "0.0.1",
+        "author": "pravinm199",
+        "author_website": "https://github.com/pravinm199/mm-ads",
+        "github_uri": "https://github.com/pravinm199/mm-ads",
+        "project_description": "first project",
+        "license": "MIT",
+        "last_updated": "1674932872766",
+        "project_type": "community"
+    }
+}
