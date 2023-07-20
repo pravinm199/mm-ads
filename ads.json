@@ -12,5 +12,19 @@
         "tags": [
             "openid-connect"
         ]
+    },
+    "pfirst": {
+        "projectName": "pfirst",
+        "description": "This is first agama project",
+        "type": "community",
+        "author": "pravinm199",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/pravinm199/mm-ads",
+        "githubUri": "https://github.com/pravinm199/mm-ads",
+        "license": "MIT",
+        "lastUpdated": "1689844146155",
+        "tags": [
+            "openid-connect"
+        ]
     }
 }
