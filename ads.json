@@ -1,1 +1,18 @@
-{}
+{
+    "pra-first": {
+        "projectName": "pra-first",
+        "description": "pra first",
+        "type": "community",
+        "author": "pravinm199",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/pravinm199/mm-ads",
+        "githubUri": "https://github.com/pravinm199/mm-ads",
+        "license": "apache-2.0",
+        "lastUpdated": "1701267420408",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
